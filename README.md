@@ -1,7 +1,5 @@
 # React + Typescript Sidebar 
 
-A minimal React + TypeScript + Vite project featuring a modern sliding sidebar component.
-
 ## Features
 
 - Sidebar with glassmorphism effect
